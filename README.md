@@ -15,12 +15,15 @@ You can see set of mostly used technologies and libraries below:
 [![Sklearn](https://img.shields.io/badge/-Sklearn-0000?logo=Scikit-learn&logoColor=white)]()
 [![CatBoost](https://img.shields.io/badge/-CatBoost-0000?&logo=&color=yellow&logoColor=white)]()
 
-
-
-
 ### :construction_worker: Job experience
 
 I have interned at [Copter Express company](https://coex.tech), working on open-source UAV educational kit [Clever](https://github.com/CopterExpress/clover). Here you can find the article about the [face recognition system](https://clover.coex.tech/en/face_recognition.html) for it, meanwhile code for the project can be found at the following [repository](https://github.com/mmkuznecov/face_recognition_from_clever). Also I have interned at [Sber company](https://github.com/Sberbank-Technology) as a junior developer, where I have worked on NLP tasks.
+
+### :rocket: Projects
+
+* [Face recognition from clever](https://github.com/mmkuznecov/face_recognition_from_clever) - face recognition system for [CLEVER](https://github.com/CopterExpress/clover) drone kit.
+* [Parser combinators for syntax errors searching](https://github.com/mmkuznecov/Parser_combinators_for_syntax_errors_searching) - research on metaprogramming for code syntax error search.
+* [AIvsBIAS](https://github.com/mmkuznecov/AIvsBIAS) - little research on removing gender bias for Word2Vec NLP models.
 
 ### :mailbox: Contacts
 
