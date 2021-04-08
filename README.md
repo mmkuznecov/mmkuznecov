@@ -25,9 +25,11 @@ I have interned at [Copter Express company](https://coex.tech), working on open-
 * [Parser combinators for syntax errors searching](https://github.com/mmkuznecov/Parser_combinators_for_syntax_errors_searching) - research on metaprogramming for code syntax error search.
 * [AIvsBIAS](https://github.com/mmkuznecov/AIvsBIAS) - little research on removing gender bias for Word2Vec NLP models.
 
-### :mailbox: Contacts
+### :mailbox: Contact info
 
-You can contact me via:
+You can check out my CV [here](https://drive.google.com/file/d/1rCFmM6vyAihV78DO01VnQkDCVffBo83C/view?usp=sharing)
+
+Also you can contact me via:
 
 [![Email](https://img.shields.io/badge/-Email-de4343?logo=Gmail&logoColor=white&link=mailto:mmkuznecov2002@gmail.com)](mailto:mmkuznecov2002@gmail.com)
 [![VK](https://img.shields.io/badge/-VK-4680C2?logo=vk&logoColor=white&link=https://vk.com/mmkuznecov)](https://vk.com/mmkuznecov)
