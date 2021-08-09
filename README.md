@@ -23,7 +23,7 @@ I have interned at [Copter Express company](https://coex.tech), working on open-
 
 * [Face recognition from clever](https://github.com/mmkuznecov/face_recognition_from_clever) - face recognition system for [CLEVER](https://github.com/CopterExpress/clover) drone kit.
 * [Parser combinators for syntax errors searching](https://github.com/mmkuznecov/Parser_combinators_for_syntax_errors_searching) - research on metaprogramming for code syntax error search. Paper is published [here](https://ieeexplore.ieee.org/document/9396311).
-* [AIvsBIAS](https://github.com/mmkuznecov/AIvsBIAS) - little research on removing gender bias for Word2Vec NLP models.
+* [AIvsBIAS](https://github.com/mmkuznecov/AIvsBIAS) - little research on removing gender bias for Word2Vec NLP models. You can check out project landing [here](https://aivsbias.feather.cloudns.cl/) (RU).
 
 ### :mailbox: Contact info
 
