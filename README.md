@@ -35,3 +35,6 @@ Also you can contact me via:
 [![VK](https://img.shields.io/badge/-VK-4680C2?logo=vk&logoColor=white&link=https://vk.com/mmkuznecov)](https://vk.com/mmkuznecov)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?logo=Instagram&logoColor=white&link=https://www.instagram.com/moisha_daily/)](https://www.instagram.com/moisha_daily/)
 [![Twitter](http://img.shields.io/badge/-Twitter-0000?logo=Twitter&color=00acee&logoColor=white&link=https://twitter.com/mmkuznecov_)](https://twitter.com/mmkuznecov_)
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mmkuznecov&show_icons=true&hide=prs&theme=react)](https://github.com/anuraghazra/github-readme-stats)
